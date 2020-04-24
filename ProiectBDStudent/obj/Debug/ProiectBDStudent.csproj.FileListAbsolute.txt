@@ -1,0 +1,44 @@
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe.config
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.pdb
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.dll
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.xml
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csprojAssemblyReference.cache
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.Form1.resources
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.frmAdaugaModificaStudent.resources
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.Properties.Resources.resources
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.GenerateResource.cache
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.CoreCompileInputs.cache
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.CopyComplete
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.exe
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.pdb
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.CautareStudent.resources
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.frmModificaStudent.resources
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe.manifest
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.application
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.exe.manifest
+C:\Users\flavius.matheiu\Desktop\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.application
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe.config
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe.manifest
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.application
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.exe
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\ProiectBDStudent.pdb
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.dll
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.xml
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csprojAssemblyReference.cache
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.CautareStudent.resources
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.Form1.resources
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.frmAdaugaModificaStudent.resources
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.frmModificaStudent.resources
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.Properties.Resources.resources
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.GenerateResource.cache
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.CoreCompileInputs.cache
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.exe.manifest
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.application
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.csproj.CopyComplete
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.exe
+C:\Users\flavius.matheiu\Desktop\PROIECT BD STUDENT\ProiectBDStudent\ProiectBDStudent\obj\Debug\ProiectBDStudent.pdb
